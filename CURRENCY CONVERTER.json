@@ -2,7 +2,7 @@
     {
         "id": "8e18a93c46f9e4b9",
         "type": "tab",
-        "label": "Flow 7",
+        "label": "Currency Converter",
         "disabled": false,
         "info": "",
         "env": []
@@ -41,7 +41,7 @@
         "method": "GET",
         "ret": "obj",
         "paytoqs": "ignore",
-        "url": "https://v6.exchangerate-api.com/v6/b9fd88c84d60e5369971556e/latest/USD",
+        "url": "https://v6.exchangerate-api.com/v6/3695d761699f5936dc86f436/latest/USD",
         "tls": "",
         "persist": false,
         "proxy": "",

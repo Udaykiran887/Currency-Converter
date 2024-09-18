@@ -156,7 +156,7 @@ We welcome contributions to enhance the Currency Converter project! Whether you 
 2. **Clone Your Fork**:
    - Clone your forked repository to your local machine:
      ```bash
-     git clone https://github.com/your-username/currency-converter.git
+     git clone https://github.com/your-udaykiran887/currency-converter.git
      ```
 
 3. **Create a New Branch**:
